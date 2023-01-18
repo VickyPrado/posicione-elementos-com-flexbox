@@ -1,5 +1,5 @@
 # Posicionando elementos com Flexbox
-Projeto referente ao curso de Flexbox para aprendizado sobre as funções flex do css.
+Projeto referente ao curso de Flexbox para aprendizado focando nas funções flex do css.
 
 Site criado utilizando as linguagens:
 > HTML e CSS
